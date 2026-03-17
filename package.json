@@ -1,0 +1,1 @@
+{"name": "my-probot-app", "description": "A GitHub App built with Probot.", "private": true, "dependencies": {"@probot/octokit": "^2.2.0","@probot/probot": "^12.3.0"}, "scripts": {"start": "node index.js"}}
